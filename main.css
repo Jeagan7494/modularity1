@@ -1,1 +1,11 @@
 /* ADD YOUR STYLES HERE */
+.data-table td {
+		
+		width: 20%;
+		font-size: 14px;
+		padding: 10px;
+		border-bottom: 1px solid #CCCCCC;
+}
+.data-table .number_column {
+	width: 10%;
+}
