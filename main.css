@@ -85,3 +85,20 @@ a {
 	border-radius: 5px;
 }
 
+.image1 {
+	float: left;	
+	margin-right: 10px;
+}
+
+.image2 {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 40px;
+}
+.imgbaby {
+	float: left;
+	margin-left: 60px;
+	margin-bottom: 40px;
+	margin-right: 10px;
+}
+
